@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 17-10-2025
+# Register no.:25018890
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -42,6 +42,22 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
+
 # Result:
-[exp.9.prompt.pdf (1) exp 9.pdf](https://github.com/user-attachments/files/23020709/exp.9.prompt.pdf.1.exp.9.pdf)
+1.Simple Prompt Version A group of friends spending a fun day at the beach.
+
+2.Refined Prompt Version A group of four friends laughing and playing at a sunny beach. Two are building a sandcastle near the shore, one is running toward the waves, and another is taking photos. The sea sparkles under the bright sunlight, with umbrellas and surfboards in the background. The scene feels warm, happy, and summery.
+
+# THE ABOVE MENTIONED VIDEOS ARE ATTACHED BELOW:
+
+
+https://github.com/user-attachments/assets/76ff37c3-345b-4c27-902b-9cbb4809010a
+
+https://github.com/user-attachments/assets/ba7ac767-7028-454f-ac7c-edddf3bc1f79
+
+
+
+
+
+
 
